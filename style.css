@@ -1,4 +1,9 @@
-: :root {
---branco-principal: #000000;
-
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+body {
+    h1 {
+        background-color: white;
+    }
+    
 }
